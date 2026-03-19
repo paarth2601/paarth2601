@@ -47,24 +47,20 @@ I'm a **Frontend Developer** specializing in **Angular** and building responsive
 ## 💼 Experience
 
 ### Systems Engineer @ Tata Consultancy Services
+![Client](https://img.shields.io/badge/Client-Project-blue?style=for-the-badge) **Ultimatix**
+**Aug 24 - Present** |  Mumbai, India
+- Developed reusable Angular (v17+) components using TypeScript and RxJS, reducing development effort by 30% and improving UI consistency.
+- Integrated 15+ RESTful APIs using Angular HTTPClient to enable dynamic data rendering and improve application responsiveness.
+- Implemented Git-based branching and deployment workflows, reducing merge conflicts by 25% and improving release efficiency.
+- Conducted peer code reviews and enforced coding standards, improving code quality and reducing production defects by 20%.
+- Resolved 50+ critical production bugs, improving application stability and reducing customer-reported issues.
 
-**Oct 2021 - Present** |  Mumbai, India
-Developed reusable Angular (v17+) components using TypeScript and RxJS, reducing development effort by 30%
-and improving UI consistency.
-• Integrated 15+ RESTful APIs using Angular HTTPClient to enable dynamic data rendering and improve application
-responsiveness.
-• Implemented Git-based branching and deployment workflows, reducing merge conflicts by 25% and improving
-release efficiency.
-• Conducted peer code reviews and enforced coding standards, improving code quality and reducing production
-defects by 20%.
-• Resolved 50+ critical production bugs, improving application stability and reducing customer-reported issues.
-
-
-
-
-
-
-
+![Client](https://img.shields.io/badge/Client-Project-blue?style=for-the-badge) **Henry Schein UK**
+**Oct 21 - Jul 24** |  Mumbai, India
+- Designed responsive web interfaces for mobile, desktop, and tablet platforms, improving cross-device usability by 35%.
+- Integrated Angular with Sitecore JSS, enabling dynamic content delivery and reducing manual content updates by 40%.
+- Implemented WCAG AA accessibility standards, improving compliance and accessibility scores by 30%.
+- Actively contributed to Agile sprint planning and execution, achieving 95% sprint delivery predictability.
 
 ---
 
@@ -81,7 +77,7 @@ defects by 20%.
 
 ## 🌐 Portfolio
 
-### 👉 https://paarthgupta.github.io
+👉 https://paarthgupta.github.io
 
 ---
 
