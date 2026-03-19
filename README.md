@@ -47,7 +47,7 @@ I'm a **Frontend Developer** specializing in **Angular** and building responsive
 ## 💼 Experience
 
 ### Systems Engineer @ Tata Consultancy Services
-![Client](https://img.shields.io/badge/Client-blue?style=for-the-badge) **Ultimatix**
+![Client](https://img.shields.io/badge/Client-blue) **Ultimatix**
 **Aug 24 - Present** |  Mumbai, India
 - Developed reusable Angular (v17+) components using TypeScript and RxJS, reducing development effort by 30% and improving UI consistency.
 - Integrated 15+ RESTful APIs using Angular HTTPClient to enable dynamic data rendering and improve application responsiveness.
@@ -55,7 +55,7 @@ I'm a **Frontend Developer** specializing in **Angular** and building responsive
 - Conducted peer code reviews and enforced coding standards, improving code quality and reducing production defects by 20%.
 - Resolved 50+ critical production bugs, improving application stability and reducing customer-reported issues.
 
-![Client](https://img.shields.io/badge/Client-blue?style=for-the-badge) **Henry Schein UK**
+![Client](https://img.shields.io/badge/Client-blue) **Henry Schein UK**
 **Oct 21 - Jul 24** |  Mumbai, India
 - Designed responsive web interfaces for mobile, desktop, and tablet platforms, improving cross-device usability by 35%.
 - Integrated Angular with Sitecore JSS, enabling dynamic content delivery and reducing manual content updates by 40%.
