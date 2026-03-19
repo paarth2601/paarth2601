@@ -42,20 +42,25 @@ I'm a **Frontend Developer** specializing in **Angular** and building responsive
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-📌 Projects
-🔹 Angular Admin Dashboard
+## 💼 Experience
 
-Authentication system with route guards
+### Systems Engineer @ Tata Consultancy Services
 
-User management (CRUD operations)
+**Oct 2021 - Present** |  Mumbai, India
+Developed reusable Angular (v17+) components using TypeScript and RxJS, reducing development effort by 30%
+and improving UI consistency.
+• Integrated 15+ RESTful APIs using Angular HTTPClient to enable dynamic data rendering and improve application
+responsiveness.
+• Implemented Git-based branching and deployment workflows, reducing merge conflicts by 25% and improving
+release efficiency.
+• Conducted peer code reviews and enforced coding standards, improving code quality and reducing production
+defects by 20%.
+• Resolved 50+ critical production bugs, improving application stability and reducing customer-reported issues.
 
-Charts & analytics dashboard
 
-API integration using JSON Server
 
-👉 Live Demo: https://your-dashboard-link
-👉 GitHub Code: https://github.com/yourusername/angular-admin-dashboard
 
 🌐 Portfolio
 
@@ -77,4 +82,19 @@ Quick learning and adaptability
 
 Focus on delivering real-world solutions
 
-⭐ Open to freelance and remote opportunities
+## 🎯 What I Bring
+
+```
+✅ Strong expertise in Angular framework (components, modules, services, routing)
+✅ Experience building scalable and modular applications using reusable components
+✅ Ability to integrate and consume REST APIs efficiently
+✅ Familiar with CI/CD pipelines and Azure cloud environments
+✅ Writing clean, maintainable, and production-ready code
+✅ Focus on delivering real-world solutions
+```
+
+---
+
+<p align="center">
+<b>⭐ Open to freelance and remote opportunities</b>
+</p>
