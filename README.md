@@ -62,25 +62,28 @@ defects by 20%.
 
 
 
-🌐 Portfolio
 
-👉 https://yourusername.github.io
 
-📫 Contact
 
-Email: your@email.com
 
-LinkedIn: https://linkedin.com/in/yourprofile
+---
 
-⚡ What I Bring
+## 🏆 Key Achievements
 
-Clean and maintainable code
+- 🎯 Improved UI **usability by 35%** with responsive design
+- 🚀 **25% Faster Deployments** - Designed scalable QA framework
+- 📊 Integrated **50+ REST APIs**, improving application performance
+- 🎤 Earned **Google Generative AI** certifications, strengthening AI expertise
+- 🌍 Earned **Microsoft Azure AZ-900** certification, strengthening cloud and CI/CD expertise
+- 🎪 Achieved **95% sprint delivery** in Agile environment
 
-Strong understanding of UI development
+---
 
-Quick learning and adaptability
+## 🌐 Portfolio
 
-Focus on delivering real-world solutions
+### 👉 https://paarthgupta.github.io
+
+---
 
 ## 🎯 What I Bring
 
@@ -96,5 +99,5 @@ Focus on delivering real-world solutions
 ---
 
 <p align="center">
-<b>⭐ Open to freelance and remote opportunities</b>
+<b>⭐ Open to Freelance and Remote Opportunities</b>
 </p>
